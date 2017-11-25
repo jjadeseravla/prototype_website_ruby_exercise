@@ -1,6 +1,6 @@
 require 'sinatra'
 get '/' do
-  'Hello World!'
+  erb :index
 end
 
 get '/names' do
