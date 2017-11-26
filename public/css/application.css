@@ -17,3 +17,7 @@ body {
 p, h2 {
     font-family: 'Cookie', cursive;
 }
+
+.hidden {
+    display: none;
+}
